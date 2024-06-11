@@ -6,9 +6,9 @@ use Src\Interfaces\InterfaceView;
 
 class Controller404 extends ClassRender implements InterfaceView{
     public function __construct(){
-        $this->setTitle("Portfolio Lucas Vacari - Página Não Encontrada");
-        $this->setDescription("O projeto LRV Web tem o objetivo de divulgar o portfólio de Lucas Rodrigues Vacari, trazendo projetos realizados por ele, suas contribuições e interesses. Além disso, trazer os preços e orçamentos dados por ele para a criação de um site profissional.");
-        $this->setKeywords("portfolio, lucas, vacari, planos, precos, hospedagem, site, lrvweb, lrv, web, desenvolvimento, criacao, sites, ecommerce, 404");
+        $this->setTitle("Portfolio Beatriz Nogueira - Página Não Encontrada");
+        $this->setDescription("Descubra o portfólio de Beatriz Nogueira: designer criativa e talentosa. Explore projetos inovadores, do design gráfico à identidade visual, e veja como transformo ideias em realidade visual.");
+        $this->setKeywords("Beatriz Nogueira, portfólio, design gráfico, identidade visual, projetos inovadores, criatividade, designer, arte visual, projetos criativos, design, branding, 404");
         $this->setDir("404");
         $this->renderLayout();
     }
