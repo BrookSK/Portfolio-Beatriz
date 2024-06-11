@@ -2,7 +2,7 @@
     <div class="container">
         <!-- Navbar Brand start -->
         <a class="navbar-brand" href="<?php echo DIRPAGE ?>">
-            <h1><span>Lucas</span> Vacari</h1>
+            <h1>Beatriz Nogueira</h1>
         </a>
         <!-- Navbar Brand end -->
 
