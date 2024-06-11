@@ -1741,3 +1741,30 @@ header .navbar.sticky-header{
 		margin-top: 0;
 	}
 }
+
+/************************************/
+/***** 	    Main css		     ****/
+/************************************/
+
+.sobre {
+	display: flex;
+	width: 100%;
+}
+
+.conteiner {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.foto {
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}
+
+.descricao {
+	display: flex;
+	align-items: end;
+}
